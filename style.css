@@ -29,6 +29,11 @@ p {
   width: 50px;
 }
 .btn {
-  background-color: rgb(1, 255, 44);
+  background: rgb(1, 255, 44);
   text-decoration-color: black;
+  padding: 10px;
+  outline: none;
+  border: 2px solid green;
+  border-radius: 1000px;
+  font-size: 20px;
 }
